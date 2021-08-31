@@ -1,2 +1,5 @@
-# js-rock-paper-scissors
-I dare you to play a Live or Die game with me ; )
+# Rock Paper Scissors
+
+> This is a project for [the Odin Project](https://www.theodinproject.com/)
+
+Wanna play a simple Rock Paper Scissors game?
